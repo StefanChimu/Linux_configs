@@ -1,6 +1,6 @@
 [options]
 font = Monospace 16
-cursor_shape = ibeam
+# cursor_shape = ibeam
 allow_bold = true
 audible_bell = true
 
